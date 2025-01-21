@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Nisha`s accounts related  prodction  APIs "
+  message: "Welcome to EazyByte accounts related default prodction  APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
